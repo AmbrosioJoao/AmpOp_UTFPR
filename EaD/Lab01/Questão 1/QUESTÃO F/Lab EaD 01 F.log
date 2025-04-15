@@ -1,0 +1,32 @@
+Circuit: * C:\Users\User\Desktop\Q1\QUESTÃO F\Lab EaD 01 F.asc
+
+Error on line 906 : .temp 80 
+	 Warning: .TEMP card obsolete -- use .options TEMP and TNOM
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:      d2          d1
+Model:     dz2         dz1
+Id:     -3.23e-12   -1.68e+00
+Vd:     -3.23e+00   -4.38e+00
+Req:     1.00e-12    1.22e+00
+CAP:     0.00e+00    0.00e+00
+
+
+
+Date: Sun Apr 13 21:22:06 2025
+Total elapsed time: 0.062 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 6
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: 100 bytes object code size
+Matrix Compiler2: 248 bytes object code size

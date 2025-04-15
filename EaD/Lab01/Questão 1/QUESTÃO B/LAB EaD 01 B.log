@@ -1,0 +1,32 @@
+Questionable use of curly braces in "d0 a b {d0}"
+    Error: undefined symbol in: "[d0]"
+Circuit: * C:\Users\User\Desktop\Q1\QUESTÃO B\LAB EaD 01 B.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:      d0
+Model:     d0
+Id:      2.61e-02
+Vd:      6.05e-01
+Req:     1.09e+00
+CAP:     0.00e+00
+
+
+
+Date: Sun Apr 13 21:31:08 2025
+Total elapsed time: 0.070 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 4
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 3
+fillins = 0
+solver = Normal
+Matrix Compiler1: 86 bytes object code size
+Matrix Compiler2: 163 bytes object code size
